@@ -1,1 +1,1 @@
-console.log('berhasil belajar github');
+console.log('akhirnya berhasil belajar github');
